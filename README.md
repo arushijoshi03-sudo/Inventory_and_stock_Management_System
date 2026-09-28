@@ -111,7 +111,7 @@ The goal of this project is to:
 * Sales and profit analytics
 
 ## Author
-Name = Arushi Joshi
-Project = Inventory and stock management system
+Name = Arushi Joshi \
+Project = Inventory and stock management system \
 Language = Python
 
