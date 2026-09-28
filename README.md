@@ -93,15 +93,6 @@ The goal of this project is to:
 
 ---
 
-## 📊 Sample Output Features
-
-* Inventory display with price and quantity
-* Low stock alerts
-* Total inventory value calculation
-* Sorted expensive items list
-
----
-
 ## 🚀 Future Enhancements
 
 * Add GUI (Tkinter or Web App)
