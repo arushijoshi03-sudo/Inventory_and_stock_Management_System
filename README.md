@@ -1,6 +1,6 @@
-# 🧾 Inventory & Stock Management System (Python)
+#  Inventory & Stock Management System (Python)
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is a simple **Inventory & Stock Management System** developed in Python. It allows users to manage items, track stock levels, and perform operations like adding, updating, issuing, and deleting inventory items.
 
@@ -15,7 +15,7 @@ As per the project guidelines, it demonstrates solving a real-world problem usin
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 The goal of this project is to:
 
@@ -26,9 +26,9 @@ The goal of this project is to:
 
 ---
 
-## ⚙️ Features
+##  Features
 
-### 🔹 Core Functional Modules
+###  Core Functional Modules
 
 * Add new items to inventory
 * View complete inventory report
@@ -45,7 +45,7 @@ The goal of this project is to:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python 3
 * File Handling (`.txt` file storage)
@@ -53,7 +53,7 @@ The goal of this project is to:
 
 ---
 
-## 🧠 Code Structure
+##  Code Structure
 
 ### Class:
 
@@ -68,7 +68,7 @@ The goal of this project is to:
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 1. Install Python (if not already installed)
 2. Save the file as:
@@ -84,7 +84,7 @@ The goal of this project is to:
 
 ---
 
-## 🧪 Testing Instructions
+##  Testing Instructions
 
 * Add multiple items and verify inventory display
 * Try issuing items with valid and invalid quantities
@@ -93,7 +93,7 @@ The goal of this project is to:
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 * Add GUI (Tkinter or Web App)
 * Database integration (MySQL / SQLite)
