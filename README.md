@@ -36,7 +36,7 @@ The goal of this project is to:
 * Issue items (simulate sales)
 * Delete items
 
-### 🔹 Advanced Features
+###  Advanced Features
 
 * Top 3 most expensive items
 * Highest stock item detection
